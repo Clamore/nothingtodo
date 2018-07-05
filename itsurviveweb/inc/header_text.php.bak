@@ -1,0 +1,34 @@
+<style>
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("../img/header.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
+
+<div class="bg"></div>
+
+<!-- Header -->
+		<!-- <header class="masthead">
+			<div class="container">
+				<div class="intro-text">
+					<div class="intro-lead-in" style="color:#fff">&nbsp;</div>
+					<div class="intro-heading text-uppercase" style="color:#fff">&nbsp;</div>
+					<div class="intro-heading text-uppercase" style="color:#fff">&nbsp;</div>
+					<!-- <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a> -->
+				<!-- </div> --><!-- intro-text -->
+			<!-- </div> --><!-- container -->
+		<!-- </header> -->
+	
