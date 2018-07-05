@@ -5,7 +5,6 @@
 <style>
 	.href{
 		color:#003399;
-		font-size:14em;
 	}
 	.href2{
 		color:#003399;
