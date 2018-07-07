@@ -622,7 +622,7 @@
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">งานด้าน Graphic & Multimedia Production</h2>
-                  <p>
+                  <!-- <p>
 					<a href="../img/about/graphic/01.jpg"><img src="../img/about/graphic/01.jpg" width="300" height="200" border="0" alt=""></a>
 					&nbsp;
 					<a href="../img/about/graphic/02.jpg"><img src="../img/about/graphic/02.jpg" width="300" height="200" border="0" alt=""></a>
@@ -631,7 +631,31 @@
 					<a href="../img/about/graphic/03.jpg"><img src="../img/about/graphic/03.jpg" width="300" height="200" border="0" alt=""></a>
 					&nbsp;
 					<a href="../img/about/graphic/04.jpg"><img src="../img/about/graphic/04.jpg" width="150" height="300" border="0" alt=""></a>
-				  </p>
+				  </p> -->
+				  <table border="0" width="100%" height="100%">
+					<thead>
+						<tr>
+							<th><h5>Graphic</h5></th>
+							<th><h5>Multimedia</h5></th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td width="50%">
+
+								<object data="../eng/img/portfolio.pdf" type="application/pdf" style="height:100%;width:100%;" >
+								   <p><b>Example fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="../eng/img/portfolio.pdf">Download PDF</a>.</p>
+								</object>
+
+							</td>
+							<td width="50%">
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/ABI4EcM2NSk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+								<br>
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/qXEWbZVByrI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+							</td>
+						<tr>
+					</tbody>
+				  </table>
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fa fa-times"></i>
                     Close Project</button>

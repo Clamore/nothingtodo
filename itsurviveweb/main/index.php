@@ -14,6 +14,48 @@
 	}
 </style>
 
+<!-- ผลงาน -->
+<section class="bg-light" id="course">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h2 class="section-heading text-uppercase">TRAINING SCHEDULE</h2>
+			</div><!-- col-lg-12 text-center -->
+        </div><!-- row -->
+
+		<div class="row">
+          <div class="col-lg-12">
+			<table class="table">
+			<tr class="center">
+				<th>Date</th>
+				<th>Course Name</th>
+				<th>Duration</th>
+				<th>Fee</th>
+				<th>Course outline</th>
+				<th>Registration</th>
+			</tr>
+			<tr class="center">
+				<td>20 - 21 July 2018</td>
+				<td>PPM : Professional Project Management</td>
+				<td>2 Days</td>
+				<td>9,500 (Not Include Vat.)</td>
+				<td><a class="href" href="https://bit.ly/2JRi6zx" target="_blank"><img src="../img/logos/icon_pdf.gif" width="27" height="29" border="0" alt="">&nbsp;Download</a></td>
+				<td><a class="href" href="https://bit.ly/2HN6Doj" target="_blank">Registration</a></td>
+			</tr>
+			<tr class="center">
+				<td>25 - 26 August 2018</td>
+				<td>SPSS : การวิเคราะห์สถิติขั้นสูงด้วย SPSS for Windows</td>
+				<td>2 Days</td>
+				<td>6,500 (Not Include Vat.)</td>
+				<td><a class="href" href="https://goo.gl/sqnTQx" target="_blank"><img src="../img/logos/icon_pdf.gif" width="27" height="29" border="0" alt="">&nbsp;Download</a></td>
+				<td><a class="href" href="https://goo.gl/ne1X2J" target="_blank">Registration</a></td>
+			</tr>
+			</table>
+          </div>
+        </div><!-- row -->
+	</div><!-- container -->
+</section><!-- portfolio -->
+
   <!-- บริการ -->
 <section id="services">
 	<div class="container">
@@ -31,7 +73,8 @@
 					<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/consult.png" width="45%" border="0" alt="">
-				<a class="href" href="../whowedo/CONSULTING.php#CONSULTING"><h5 class="service-heading">CONSULTING SERVICES</h5></a>
+				<!-- <a class="href" href="../who_we_do/CONSULTING.php#CONSULTING"><h5 class="service-heading">CONSULTING SERVICES</h5></a> -->
+				<h5 class="service-heading">CONSULTING SERVICES</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -40,7 +83,8 @@
 					<i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/BUSINESS.png" width="45%">
-				<a class="href" href="../whowedo/BUSINESS.php#BUSINESS"><h5 class="service-heading">BUSINESS INTELLIGENCE</h5></a>
+				<!-- <a class="href" href="../who_we_do/BUSINESS.php#BUSINESS"><h5 class="service-heading">BUSINESS INTELLIGENCE</h5></a> -->
+				<h5 class="service-heading">BUSINESS INTELLIGENCE</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -49,7 +93,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/DT_edit.png" width="45%">
-				<a class="href" href="../whowedo/DIGITAL.php#DIGITAL"><h5 class="service-heading">DIGITAL TRANSFORMATION</h5></a>
+				<!-- <a class="href" href="../who_we_do/DIGITAL.php#DIGITAL"><h5 class="service-heading">DIGITAL TRANSFORMATION</h5></a> -->
+				<h5 class="service-heading">DIGITAL TRANSFORMATION</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -58,7 +103,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/training.png" width="45%">
-				<a class="href" href="../whowedo/TRAINING.php#TRAINING"><h5 class="service-heading">TRAINING</h5></a>
+				<!-- <a class="href" href="../who_we_do/TRAINING.php#TRAINING"><h5 class="service-heading">TRAINING</h5></a> -->
+				<h5 class="service-heading">TRAINING</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -67,7 +113,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/project-manager_edit.png" width="45%">
-				<a class="href" href="../whowedo/PROJECT.php#PROJECT"><h5 class="service-heading">PROJECT MANAGEMENT</h5></a>
+				<!-- <a class="href" href="../who_we_do/PROJECT.php#PROJECT"><h5 class="service-heading">PROJECT MANAGEMENT</h5></a> -->
+				<h5 class="service-heading">PROJECT MANAGEMENT</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -76,7 +123,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/software_edit.png" width="45%">
-				<a class="href" href="../whowedo/SOFTWARE.php#SOFTWARE"><h5 class="service-heading">SOFTWARE IMPLEMENTATION</h5></a>
+				<!-- <a class="href" href="../who_we_do/SOFTWARE.php#SOFTWARE"><h5 class="service-heading">SOFTWARE IMPLEMENTATION</h5></a> -->
+				<h5 class="service-heading">SOFTWARE IMPLEMENTATION</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -85,7 +133,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/Network_edit.png" width="45%">
-				<a class="href" href="../whowedo/NETWORK.php#NETWORK"><h5 class="service-heading">NETWORK DESIGN</h5></a>
+				<!-- <a class="href" href="../who_we_do/NETWORK.php#NETWORK"><h5 class="service-heading">NETWORK DESIGN</h5></a> -->
+				<h5 class="service-heading">NETWORK DESIGN</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -94,7 +143,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/animation_edit.png" width="45%">
-				<a class="href" href="../whowedo/MULTIMEDIA.php#MULTIMEDIA"><h5 class="service-heading">MULTIMEDIA PRODUCTION</h5></a>
+				<!-- <a class="href" href="../who_we_do/MULTIMEDIA.php#MULTIMEDIA"><h5 class="service-heading">MULTIMEDIA PRODUCTION</h5></a> -->
+				<h5 class="service-heading">MULTIMEDIA PRODUCTION</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -103,7 +153,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/Printing_edit.png" width="45%">
-				<a class="href" href="../whowedo/PRINTING.php#PRINTING"><h5 class="service-heading">PRINTING</h5></a>
+				<!-- <a class="href" href="../who_we_do/PRINTING.php#PRINTING"><h5 class="service-heading">PRINTING</h5></a> -->
+				<h5 class="service-heading">PRINTING</h5>
 			</div><!-- col-md-4 -->
         </div><!-- row text-center -->
 	</div><!-- container -->
