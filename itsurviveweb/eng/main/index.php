@@ -68,7 +68,8 @@
 					<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/consult.png" width="45%" border="0" alt="">
-				<a class="href" href="../whowedo/CONSULTING.php#CONSULTING"><h5 class="service-heading">CONSULTING SERVICES</h5></a>
+				<!-- <a class="href" href="../who_we_do/CONSULTING.php#CONSULTING"><h5 class="service-heading">CONSULTING SERVICES</h5></a> -->
+				<h5 class="service-heading">CONSULTING SERVICES</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -77,7 +78,8 @@
 					<i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/BUSINESS.png" width="45%">
-				<a class="href" href="../whowedo/BUSINESS.php#BUSINESS"><h5 class="service-heading">BUSINESS INTELLIGENCE</h5></a>
+				<!-- <a class="href" href="../who_we_do/BUSINESS.php#BUSINESS"><h5 class="service-heading">BUSINESS INTELLIGENCE</h5></a> -->
+				<h5 class="service-heading">BUSINESS INTELLIGENCE</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -86,7 +88,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/DT_edit.png" width="45%">
-				<a class="href" href="../whowedo/DIGITAL.php#DIGITAL"><h5 class="service-heading">DIGITAL TRANSFORMATION</h5></a>
+				<!-- <a class="href" href="../who_we_do/DIGITAL.php#DIGITAL"><h5 class="service-heading">DIGITAL TRANSFORMATION</h5></a> -->
+				<h5 class="service-heading">DIGITAL TRANSFORMATION</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -95,7 +98,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/training.png" width="45%">
-				<a class="href" href="../whowedo/TRAINING.php#TRAINING"><h5 class="service-heading">TRAINING</h5></a>
+				<!-- <a class="href" href="../who_we_do/TRAINING.php#TRAINING"><h5 class="service-heading">TRAINING</h5></a> -->
+				<h5 class="service-heading">TRAINING</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -104,7 +108,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/project-manager_edit.png" width="45%">
-				<a class="href" href="../whowedo/PROJECT.php#PROJECT"><h5 class="service-heading">PROJECT MANAGEMENT</h5></a>
+				<!-- <a class="href" href="../who_we_do/PROJECT.php#PROJECT"><h5 class="service-heading">PROJECT MANAGEMENT</h5></a> -->
+				<h5 class="service-heading">PROJECT MANAGEMENT</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -113,7 +118,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/software_edit.png" width="45%">
-				<a class="href" href="../whowedo/SOFTWARE.php#SOFTWARE"><h5 class="service-heading">SOFTWARE IMPLEMENTATION</h5></a>
+				<!-- <a class="href" href="../who_we_do/SOFTWARE.php#SOFTWARE"><h5 class="service-heading">SOFTWARE IMPLEMENTATION</h5></a> -->
+				<h5 class="service-heading">SOFTWARE IMPLEMENTATION</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -122,7 +128,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/Network_edit.png" width="45%">
-				<a class="href" href="../whowedo/NETWORK.php#NETWORK"><h5 class="service-heading">NETWORK DESIGN</h5></a>
+				<!-- <a class="href" href="../who_we_do/NETWORK.php#NETWORK"><h5 class="service-heading">NETWORK DESIGN</h5></a> -->
+				<h5 class="service-heading">NETWORK DESIGN</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -131,7 +138,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/animation_edit.png" width="45%">
-				<a class="href" href="../whowedo/MULTIMEDIA.php#MULTIMEDIA"><h5 class="service-heading">MULTIMEDIA PRODUCTION</h5></a>
+				<!-- <a class="href" href="../who_we_do/MULTIMEDIA.php#MULTIMEDIA"><h5 class="service-heading">MULTIMEDIA PRODUCTION</h5></a> -->
+				<h5 class="service-heading">MULTIMEDIA PRODUCTION</h5>
 			</div><!-- col-md-4 -->
 
 			<div class="col-md-4">
@@ -140,7 +148,8 @@
 					<i class="fa fa-lock fa-stack-1x fa-inverse"></i>
 				</span> -->
 				<img src="../img/who_we_do/logo/Printing_edit.png" width="45%">
-				<a class="href" href="../whowedo/PRINTING.php#PRINTING"><h5 class="service-heading">PRINTING</h5></a>
+				<!-- <a class="href" href="../who_we_do/PRINTING.php#PRINTING"><h5 class="service-heading">PRINTING</h5></a> -->
+				<h5 class="service-heading">PRINTING</h5>
 			</div><!-- col-md-4 -->
         </div><!-- row text-center -->
 	</div><!-- container -->
