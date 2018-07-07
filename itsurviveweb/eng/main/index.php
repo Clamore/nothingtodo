@@ -45,6 +45,14 @@
 				<td><a class="href" href="https://bit.ly/2JRi6zx" target="_blank"><img src="../img/logos/icon_pdf.gif" width="27" height="29" border="0" alt="">&nbsp;Download</a></td>
 				<td><a class="href" href="https://bit.ly/2HN6Doj" target="_blank">Registration</a></td>
 			</tr>
+			<tr class="center">
+				<td>25 - 26 August 2018</td>
+				<td>SPSS : การวิเคราะห์สถิติขั้นสูงด้วย SPSS for Windows</td>
+				<td>2 Days</td>
+				<td>6,500 (Not Include Vat.)</td>
+				<td><a class="href" href="https://goo.gl/sqnTQx" target="_blank"><img src="../img/logos/icon_pdf.gif" width="27" height="29" border="0" alt="">&nbsp;Download</a></td>
+				<td><a class="href" href="https://goo.gl/ne1X2J" target="_blank">Registration</a></td>
+			</tr>
 			</table>
           </div>
         </div><!-- row -->
